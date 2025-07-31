@@ -71,4 +71,17 @@ public class java1 {
 	
 	}
 
+		public void names() {
+	
+			System.out.println("first cases addded");
+			System.out.println("second cases added");
+	
 }
+
+
+
+
+}
+
+
+
