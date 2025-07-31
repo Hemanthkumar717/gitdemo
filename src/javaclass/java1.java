@@ -78,7 +78,12 @@ public class java1 {
 	
 }
 
-
+		public void test() {
+			
+			System.out.println("3 cases addded");
+			System.out.println("4 cases added");
+	
+}
 
 
 }
