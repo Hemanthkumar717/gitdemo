@@ -55,6 +55,19 @@ public class arrayTest {
 	    
 	}
 
+	
+	public void newclass() {
+		
+		System.out.println("nameit");
+		System.out.println("nameit");
+		
+	}
+	
+	
+	
+	
+	
+	
 }
 
 

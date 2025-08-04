@@ -31,6 +31,14 @@ public class java2 {
 	
 	}
 	
+	public void newclass23() {
+		
+		System.out.println("name");
+		System.out.println("nameit");
+		
+	}
+	
+	
 	
 }
 
