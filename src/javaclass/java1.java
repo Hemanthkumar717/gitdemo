@@ -71,19 +71,13 @@ public class java1 {
 	
 	}
 
-		public void names() {
+		public void usa() {
 	
-			System.out.println("first cases addded");
-			System.out.println("second cases added");
+			System.out.println("first cases");
+			System.out.println("second cases");
 	
 }
 
-		public void test() {
-			
-			System.out.println("3 cases addded");
-			System.out.println("4 cases added");
-	
-}
 
 
 }
