@@ -78,6 +78,14 @@ public class java1 {
 	
 }
 
+		public void usa1() {
+			
+			System.out.println("name");
+			System.out.println("nameit");
+			
+		}
+		
+		
 
 
 }
